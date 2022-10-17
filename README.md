@@ -1,1 +1,1 @@
-this is a repository on C programing language
+script that compiles a C file but does not link
